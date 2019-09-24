@@ -9,7 +9,7 @@ public class HelloController {
 
     @RequestMapping(value = "/hi", method = RequestMethod.GET)
     public String hello() {
-        return "hi 11112223333";
+        return "hi 444";
     }
 
 }
